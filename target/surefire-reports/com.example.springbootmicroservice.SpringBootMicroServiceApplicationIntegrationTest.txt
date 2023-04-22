@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.springbootmicroservice.SpringBootMicroServiceApplicationIntegrationTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.626 s - in com.example.springbootmicroservice.SpringBootMicroServiceApplicationIntegrationTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.006 s - in com.example.springbootmicroservice.SpringBootMicroServiceApplicationIntegrationTest
