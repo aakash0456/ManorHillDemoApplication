@@ -17,7 +17,8 @@ public class TimezoneRestAPIServiceImpl implements TimezoneRESTAPIService {
 
 	@Override
 	public boolean checkValidUSTimeZone(String timezone) {
-		String[] usTimezones = { "America/New_York", "America/Chicago", "America/Denver", "America/Los_Angeles" };
+		String[] usTimezones = { "America/New_York", "America/Chicago", "America/Denver", "America/Los_Angeles", "America/Adak" , "America/Anchorage", "Pacific/Honolulu",
+				"Pacific/Samoa", "Pacific/Guam", "America/Puerto_Rico", "America/Virgin"};
 		return Arrays.stream(usTimezones).anyMatch(timezone::equals);
 	}
 
