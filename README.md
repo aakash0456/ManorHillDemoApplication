@@ -32,6 +32,10 @@ Please find source code in the src folder and I have also done unit and Integrat
 ![image](https://user-images.githubusercontent.com/86436025/233901916-a2b3c692-7b22-420d-8f86-d240510dae56.png)
 
 
+## Important Note
+Please read ManorHillAppDoc.docx file
+
+
 ## Tech Stack
 
 **FrontEnd** Angular, HTML, CSS
