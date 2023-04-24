@@ -2,6 +2,7 @@
 # ManorHillDemoApplication
 
 This Spring Boot microservice exposes a single API endpoint "/time" that takes a timezone parameter. The API validates that the timezone parameter is within the US timezones and makes a call to the worldtimeapi.org public API to return the abbreviation, timezone, and DateTime fields in JSON format. The application includes unit tests and an integration test, and was built using Java 11 and Spring Boot 2.7.x.
+Please find source code in the src folder and I have also done unit and Integrating testing as per task given. All the code available in above src folder.
 
 
 
